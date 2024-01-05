@@ -1,0 +1,3 @@
+tersten kelime yazdırma : önemliHarfYazdirma dosyası buna çalış
+import types önemli: import as, from turtle 
+turtle ve random kullanımı: turtle_random.py
