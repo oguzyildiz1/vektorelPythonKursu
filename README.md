@@ -1,2 +1,3 @@
 # vektorelPythonKursu
-<h3 style="color:red">Vektörel Kursu</h3>
+<h3>Vektörel Kursu</h3>
+<p>Derste anlatılan konuları içeririr</p>
