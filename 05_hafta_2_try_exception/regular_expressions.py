@@ -1,0 +1,1 @@
+#<h1>Başlık 1</h1> # h1 taglarını temizleyip başlığı alıyor.
