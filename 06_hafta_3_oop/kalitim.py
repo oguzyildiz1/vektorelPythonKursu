@@ -39,13 +39,25 @@ class Arac(Ilan):
     def fiyatAyarla(self, abc):
         self.__fiyat = abc 
 
+# -------------- kalitim ------------------------
 
+class KiralikEv(Ev):
+    def __init__(self, n, b, s, a, o, kf):
+        super().__init__(n, b, s, a, o) # kalitim kodu
+        
+        self.odaSayisi = 5
+        self.kiraFiyati = kf
+
+    def bilgi(self):
+        print("Kiralik ev", "Fiyati: ", self.kiraFiyati)
 
 
 ilan1 = Ilan(123, "Ev", "Ahmet Kara", "Evi hemen satmam gerektiği için bu işi halletttim.")
 
 ilan2 = Ev(143, "Ev", "Tarık Sorar", "Kiralık ev hemen teslim.", 3)
 ilan3 = Arac(1233, "Araba","Mustafa Korkmaz","Açıklama","Volvo", 123123)
+
+ilan4 = KiralikEv(145, "Kiralik Ev", "Oguz Sorar", "Kiralık ev hemen teslim.", 3, 1000)
 
 ilan1.bilgi()
 
@@ -57,3 +69,5 @@ ilan3.__fiyat = 565555
 ilan3.fiyatAyarla(569999)
 
 ilan3.bilgi()
+
+ilan4.bilgi()
