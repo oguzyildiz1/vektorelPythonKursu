@@ -1,0 +1,1 @@
+fetchone . . tek bir veri bloğunu verir
