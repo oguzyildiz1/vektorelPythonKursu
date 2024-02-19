@@ -2,4 +2,4 @@
 
 #def __init__() // class içerisinde ilk başlangıçta çalışmasını istediğin kodları çalıştırıyor.
 
-#layout'ta width nasıl değiştiriliyor? 
+#PyQt6 layout'ta width nasıl değiştiriliyor? 
