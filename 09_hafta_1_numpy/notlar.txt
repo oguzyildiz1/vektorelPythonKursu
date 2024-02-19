@@ -1,0 +1,9 @@
+-- numpy dizileri tek tip veri tipi alıyor
+-- random.randint() ile random content alabilirsin. Mesela mayın tarlası gibi.
+-- [1, 1, 2, 2] mesela 1 bir ağaçı temsil ederken, 2 bir yolu temsil edebilir.
+-- image-processing bakılabilir . 
+-- pygamezero, pygame bunlar oyun geliştirmek için kullanılan kütüphaneler.
+
+linkedin  iş imkanları için bakılır(python, php gibi) 
+
+!! -- adobe xd otomatik resim, icon bulma olabilir -- !! bakılır!
