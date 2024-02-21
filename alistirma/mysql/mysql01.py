@@ -12,7 +12,7 @@ mycursor = mydb.cursor()
 # sql = "SELECT * FROM musteriler WHERE ADI = 'oğuzhan'"
 # sql = "SELECT * FROM musteriler WHERE ADI = %s"
 sql = "SELECT * FROM musteriler WHERE ID = %s"
-
+    
 aranan = ('2',)
 
 mycursor.execute(sql, aranan)
