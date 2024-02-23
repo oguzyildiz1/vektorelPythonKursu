@@ -1,0 +1,1 @@
+#python runserver proje environment yapılması gerekiyor.
